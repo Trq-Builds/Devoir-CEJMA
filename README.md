@@ -325,15 +325,15 @@ La charte doit impérativement contenir / préciser :
 ---
 
 <a id="references"></a>
-# ` 🕸️ `・Références web citées (principales)
+# `  🕸️  `・Références web citées (principales)
 
-## ` ❕ `・Textes européens / RGPD / eIDAS
+## `  ❕  `・Textes européens / RGPD / eIDAS
 * [Règlement (UE) 2016/679 — RGPD (texte officiel, EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng)  
 * [RGPD — PDF officiel (CELEX)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32016R0679)  
 * [Version lisible / indexée du RGPD — gdpr-info.eu](https://gdpr-info.eu/)  
 * [Règlement (UE) n°910/2014 — eIDAS (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2014/910/oj/eng)
 
-## ` ❕ `・CNIL — enregistrements, notification, guides pratiques
+## `  ❕  `・CNIL — enregistrements, notification, guides pratiques
 * [CNIL — L’écoute et l’enregistrement des appels sur le lieu de travail](https://www.cnil.fr/fr/lecoute-et-lenregistrement-des-appels-sur-le-lieu-de-travail)  
 * [CNIL — L’enregistrement des conversations téléphoniques afin d’établir la preuve de la formation d’un contrat](https://www.cnil.fr/fr/lenregistrement-des-conversations-telephoniques-afin-detablir-la-preuve-de-la-formation-dun-contrat)  
 * [CNIL — Notifier une violation de données personnelles (téléservice)](https://www.cnil.fr/fr/services-en-ligne/notifier-une-violation-de-donnees-personnelles)  
@@ -341,17 +341,17 @@ La charte doit impérativement contenir / préciser :
 * [CNIL — Q&A : Enregistrement ou écoute des conversations téléphoniques — faut-il informer ?](https://cnil.fr/fr/cnil-direct/question/enregistrement-ou-ecoute-des-conversations-telephoniques-faut-il-informer-ses)  
 * [CNIL — Guide / fiche PDF ns57 (écoute et enregistrement)](https://cnil.fr/sites/cnil/files/atoms/files/ns57.pdf)
 
-## ` ❕ `・Code pénal (France) — articles cités
+## `  ❕  `・Code pénal (France) — articles cités
 * [Article 226-4-1 — Usurpation d’identité (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593)  
 * [Article 323-1 — Accès frauduleux à un système (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052655)  
 * [Article 313-1 — Escroquerie (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192)
 
-## ` ❕ `・ANSSI / Cyber.gouv — guides sécurité
+## `  ❕  `・ANSSI / Cyber.gouv — guides sécurité
 * [ANSSI — Administration sécurisée des SI (guide PDF)](https://cyber.gouv.fr/sites/default/files/2018/04/anssi-guide-admin_securisee_si_v3-0.pdf)  
 * [ANSSI — Référentiel PAMS (PDF)](https://cyber.gouv.fr/sites/default/files/2022-10/ANSSI_PAMS_referentiel_v1.1_vFR.pdf)  
 * [ANSSI — Recommandations pour la protection des systèmes essentiels (PDF)](https://cyber.gouv.fr/sites/default/files/2020/12/guide_protection_des_systemes_essentiels.pdf)
 
-## ` ❕ `・Autres ressources utiles
+## `  ❕  `・Autres ressources utiles
 * [Axialys — Enregistrement des appels & bonnes pratiques (article)](https://blog.axialys.com/enregistrement-des-appels-rgpd-bonnes-pratiques-2024/)  
 * [GDPR.info (indexation pratique du texte RGPD)](https://gdpr-info.eu/)  
 * [CNIL — tag “Téléphonie” (regroupe articles CNIL)](https://www.cnil.fr/fr/tag/telephonie)  
