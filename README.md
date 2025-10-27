@@ -275,25 +275,25 @@ La charte doit impérativement contenir / préciser :
 
 ## C — Rubrique complète « Bonnes pratiques »
 
-### ・Sécurité et authentification
+### ` 🔒 `・Sécurité et authentification
 - Utiliser un mot de passe fort, unique et confidentiel (≥12 caractères avec majuscules, minuscules, chiffres et symboles)
 - Ne jamais partager ses identifiants ni enregistrer ses mots de passe dans le navigateur
 - Activer la double authentification (MFA) sur les services compatibles
 - Verrouiller sa session dès qu’on quitte son poste, même brièvement
 
-### ・Hygiène numérique et matériel
+### ` 👁️ `・Hygiène numérique et matériel
 - Ne pas brancher de périphériques USB inconnus ou personnels sans autorisation
 - Ne pas installer de logiciels non validés par l’administrateur
 - Effectuer les mises à jour système et antivirus dès qu’elles sont proposées
 - Sauvegarder les données importantes sur des emplacements sécurisés et autorisés
 
-### ・Messagerie et navigation Internet
+### ` 🌍 `・Messagerie et navigation Internet
 - Être vigilant face aux courriels suspects (expéditeur inconnu, fautes, urgence inhabituelle)
 - Ne jamais cliquer sur des liens douteux ni ouvrir des pièces jointes non sollicitées
 - Vérifier l’adresse de l’expéditeur avant de répondre ou transférer un message
 - Utiliser la messagerie professionnelle uniquement à des fins professionnelles
 
-### ・Sensibilisation et comportement responsable
+### ` 👤 `・Sensibilisation et comportement responsable
 - Signaler immédiatement tout incident ou comportement suspect à l’équipe technique
 - Participer aux formations de sensibilisation à la cybersécurité
 - Respecter les droits d’auteur, la confidentialité et la législation sur les données personnelles
