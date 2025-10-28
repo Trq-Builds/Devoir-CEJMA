@@ -20,23 +20,23 @@ J’ai traité tous les exercices demandés dans les 6 documents fournis. Les co
 
 # `  📌  `・Table des matières (Cliquez pour être redirigé.)
 
-1. [Cours 1-Données à caractère personnel (DCP)](#cours-1)  
-2. [Cours 2-Charte de confidentialité & base légale (CentreCall)](#cours-2)  
-3. [Cours 3-Identité numérique (MQBanque)](#cours-3)  
-4. [Cours 4-Preuve électronique et courriel frauduleux (MQBanque)](#cours-4)  
-5. [Cours 5-Sécuriser les équipements — Audit MSAP (Marut)](#cours-5)  
-6. [Cours 6-Habilitations, failles et segmentation SI (MSAP)](#cours-6)  
+1. [Cours 1・Données à caractère personnel (DCP)](#cours-1)  
+2. [Cours 2・Charte de confidentialité & base légale (CentreCall)](#cours-2)  
+3. [Cours 3・Identité numérique (MQBanque)](#cours-3)  
+4. [Cours 4・Preuve électronique et courriel frauduleux (MQBanque)](#cours-4)  
+5. [Cours 5・Sécuriser les équipements — Audit MSAP (Marut)](#cours-5)  
+6. [Cours 6・Habilitations, failles et segmentation SI (MSAP)](#cours-6)  
 7. [Annexes utiles : modèles, matrices et schémas textuels](#annexes)  
 8. [Références web citées (législation / autorités)](#references)
 
 ---
 
 <a id="cours-1"></a>
-# 1) Cours 1 — Données à caractère personnel (DCP)
+# 1) Cours 1 ・ Données à caractère personnel (DCP)
 
 *(Source : Cours1-CEJMA-DCP.pdf).* 
 
-## Q1 — Données recueillies lors d’une étude de marché : identification et justification
+## Q1 ・ Données recueillies lors d’une étude de marché : identification et justification
 
 **Données identifiées :**
 
@@ -49,7 +49,7 @@ Toute information permettant d’identifier une personne, directement ou indirec
 
 ---
 
-## Q2 — Analyse de conformité de la situation décrite (accord oral + précision de la finalité)
+## Q2 ・ Analyse de conformité de la situation décrite (accord oral + précision de la finalité)
 
 **Constat :** l’enregistrement est effectué **après accord oral** et la finalité est précisée par l'opérateur. 
 
@@ -70,11 +70,11 @@ Toute information permettant d’identifier une personne, directement ou indirec
 ---
 
 <a id="cours-2"></a>
-# 2) Cours 2 — Charte de confidentialité (CentreCall)
+# 2) Cours 2 ・ Charte de confidentialité (CentreCall)
 
 *(Source : Cours2-CEJMA-DCP.pdf).* 
 
-## Q1 — Vérification de conformité : checklist clé
+## Q1 ・ Vérification de conformité : checklist clé
 
 La charte doit impérativement contenir / préciser :
 
@@ -91,7 +91,7 @@ La charte doit impérativement contenir / préciser :
 
 ---
 
-## Q2 — Base légale de la conservation (tableau + justification)
+## Q2 ・ Base légale de la conservation (tableau + justification)
 
 | Catégorie de données          | Finalité                            | Base légale                                                            | Justification                                                                                                                                                           |
 | ----------------------------- | ----------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -105,15 +105,15 @@ La charte doit impérativement contenir / préciser :
 ---
 
 <a id="cours-3"></a>
-# 3) Cours 3 — Identité numérique (MQBanque)
+# 3) Cours 3 ・ Identité numérique (MQBanque)
 
 *(Source : Cours3-CEJMA-IdentitéNumérique.pdf).* 
 
-## Q1 — Éléments repérables sur un site défiguré (impact sur identité numérique)
+## Q1 ・ Éléments repérables sur un site défiguré (impact sur identité numérique)
 
 * Logo, charte graphique ; mentions légales (SIRET, contacts) ; certificats SSL ; espace client (formulaires) ; liens vers réseaux sociaux ; documents téléchargeables. Ces éléments constituent l’identité numérique et, s’ils sont altérés, provoquent perte de confiance. 
 
-## Q2 — Risques économiques & juridiques (synthèse)
+## Q2 ・ Risques économiques & juridiques (synthèse)
 
 **Économiques :** perte de clients, coûts de remédiation, fraude financière, atteinte à l’e-réputation.  
 **Juridiques :** obligation de notification CNIL si DCP exposées (Art. 33 RGPD), responsabilité civile pour préjudices subis, risques contractuels et pénaux selon la gravité. ([RGPD](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng))
@@ -131,11 +131,11 @@ La charte doit impérativement contenir / préciser :
 
 *(Source : Cours4-CEJMA-PreuveElectronique.pdf).* 
 
-## Q1 — Signes permettant de détecter un courriel frauduleux
+## Q1 ・ Signes permettant de détecter un courriel frauduleux
 
 * Expéditeur usurpé / typosquatting ; SPF/DKIM/DMARC échoués ; liens vers domaines suspects ; pièces jointes exécutables ; langage pressant/urgence ; absence de personnalisation ; incohérences d’IP. (Procédure : vérifier en-têtes, valider signature électronique, contacter via canal officiel.) 
 
-## Q2 — Délits et peines encourues (synthèse juridique française)
+## Q2 ・ Délits et peines encourues (synthèse juridique française)
 
 **Usurpation d’identité** : Article **226-4-1** du Code pénal — réprime l’usurpation d’identité ou l’usage de données d’identification pour troubler la tranquillité ou porter atteinte à l’honneur (peine : 1 an d’emprisonnement et 15 000 € d’amende pour l’infraction prévue par l’article). ([Légifrance — Art. 226-4-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593))  
 
@@ -145,7 +145,7 @@ La charte doit impérativement contenir / préciser :
 
 > **Remarque** : la qualification précise dépendra des éléments (intention, préjudice, moyens). Pour un rendu scolaire, citer ces articles montre la connaissance du cadre pénal.
 
-## Q3 — Démonstration que la solution proposée (Document 3) respecte la législation probatoire
+## Q3 ・ Démonstration que la solution proposée (Document 3) respecte la législation probatoire
 
 **Exigences probatoires pour contrats électroniques** :
 
@@ -156,7 +156,7 @@ La charte doit impérativement contenir / préciser :
 
 **Conclusion** : si la solution Document 3 inclut signature qualifiée + horodatage + journal d’événements et conservation sécurisée, elle répond aux exigences d’authenticité, intégrité et non-répudiation prévues par eIDAS et le droit probatoire.
 
-## Q4 — Avantages pour clients et e-réputation
+## Q4 ・ Avantages pour clients et e-réputation
 
 **Clients** : sécurité juridique, traçabilité, accessibilité et rapidité.  
 **MQBanque** : rétablissement de confiance, preuve de conformité, diminution du risque contentieux et meilleure e-réputation. 
@@ -164,11 +164,11 @@ La charte doit impérativement contenir / préciser :
 ---
 
 <a id="cours-5"></a>
-# 5) Cours 5 — Sécuriser les équipements — Audit MSAP (Marut)
+# 5) Cours 5 ・ Sécuriser les équipements — Audit MSAP (Marut)
 
 *(Source : Cours5-CEJMA-SécuriserlesEquipements.pdf).* 
 
-## Q1 — Situations à risque observées et remédiations proposées
+## Q1 ・ Situations à risque observées et remédiations proposées
 
 **Risques majeurs repérés :**
 
@@ -178,16 +178,16 @@ La charte doit impérativement contenir / préciser :
 
 * Verrouillage automatique (GPO), MFA, gestionnaire de mots de passe, whitelist d’applications, contrôle/permissivité USB (scan et chiffrement), patch management centralisé, sauvegardes chiffrées et tests réguliers. 
 
-## Q2 — Bonnes pratiques (texte prêt à insérer dans la charte)
+## Q2 ・ Bonnes pratiques (texte prêt à insérer dans la charte)
 
 (Version prête à coller — voir section Annexes pour texte complet et modèles rédigés.)
 
-## Q3 — Limiter les risques liés à la messagerie
+## Q3 ・ Limiter les risques liés à la messagerie
 
 **Techniques** : SPF / DKIM / DMARC, filtrage anti-phishing, scan antivirus, blocage d’exécutables, chiffrement des courriels sensibles (S/MIME ou PGP), MFA.  
 **Organisation** : procédure d’appel de vérification en cas de demande financière, classification des informations, signalement systématique via l’équipe sécurité. 
 
-## Q4 — Points clés pour la rubrique « bonnes pratiques »
+## Q4 ・ Points clés pour la rubrique « bonnes pratiques »
 
 1. Identification et authentification.  
 2. Verrouillage automatique.  
@@ -205,29 +205,29 @@ La charte doit impérativement contenir / préciser :
 ---
 
 <a id="cours-6"></a>
-# 6) Cours 6 — Obligations légales, failles de sécurité, habilitations et segmentation (MSAP)
+# 6) Cours 6 ・ Obligations légales, failles de sécurité, habilitations et segmentation (MSAP)
 
 *(Source : Cours6-CEJMA-ObligationsLegalesFaillesSecurite.pdf).* 
 
-## Q1 — Configurations risquées (identification)
+## Q1 ・ Configurations risquées (identification)
 
 * Comptes locaux admin utilisés pour tâches quotidiennes ; ports RDP exposés ; services/applicatifs non patchés ; partages réseau non sécurisés ; absence de chiffrement de stockage.
 
 **Mesures immédiates :** principe du moindre privilège, usage de comptes à privilèges via bastion/PAM, désactivation services inutiles, patch management.
 
-## Q2 — Bonnes pratiques gestion des habilitations (synthèse)
+## Q2 ・ Bonnes pratiques gestion des habilitations (synthèse)
 
 * Principe du **Least Privilege** ; séparation des rôles ; gestion de comptes à privilèges (PAM) ; provisioning/deprovisioning automatisé connecté à RH ; revues périodiques d’habilitations ; journalisation et MFA pour accès sensibles. 
 
-## Q3 — Autre problème lié aux privilèges excessifs
+## Q3 ・ Autre problème lié aux privilèges excessifs
 
 * **Mouvement latéral et escalade** : compte privilégié compromis → accès large au SI → exfiltration, chiffrement (ransomware), sabotage.
 
-## Q4 — Note synthétique (solutions pour le responsable)
+## Q4 ・ Note synthétique (solutions pour le responsable)
 
 **Priorités :** annuaire central (AD/LDAP), IAM, MFA, bastion + PAM, segmentation réseau, chiffrement, SIEM/EDR, procédure d’incident documentée.
 
-## Q5 — Préconisations de segmentation SI (schéma textuel)
+## Q5 ・ Préconisations de segmentation SI (schéma textuel)
 
 **Zones proposées :**
 
@@ -246,12 +246,12 @@ La charte doit impérativement contenir / préciser :
 <a id="annexes"></a>
 # Annexes utiles : modèles, matrices et schémas textuels
 
-## A — Phrase de consentement (modèle probatoire — à prononcer et horodater)
+## A ・ Phrase de consentement (modèle probatoire — à prononcer et horodater)
 
 > « Bonjour, je vous appelle de la part de [Nom du centre]. Cette conversation peut être enregistrée pour les besoins de [finalité : ex. contrôle qualité / formation / preuve contractuelle]. Acceptez-vous que j’enregistre cet appel ? »  
 > **Procédure** : faire prononcer la phrase et la conserver dans l’enregistrement (horodatage automatique). Voir recommandations CNIL. ([CNIL — Écoute et enregistrement](https://www.cnil.fr/fr/lecoute-et-lenregistrement-des-appels-sur-le-lieu-de-travail))
 
-## B — Log modèle (format à conserver pour preuve)
+## B ・ Log modèle (format à conserver pour preuve)
 
 ```
 
@@ -275,7 +275,7 @@ La charte doit impérativement contenir / préciser :
 
 > **But** : conserver horodatage, empreinte (hash) du fichier, preuve du consentement et journal des accès pour assurer force probante.
 
-## C — Rubrique complète « Bonnes pratiques »
+## C ・ Rubrique complète « Bonnes pratiques »
 
 ### `  🔒  `・Sécurité et authentification
 - Utiliser un mot de passe fort, unique et confidentiel (≥12 caractères avec majuscules, minuscules, chiffres et symboles)
@@ -302,7 +302,7 @@ La charte doit impérativement contenir / préciser :
 - Adopter un comportement numérique responsable et respectueux
 
 
-## D — Matrice IAM synthétique (exemple)
+## D ・ Matrice IAM synthétique (exemple)
 
 | Rôle                      |             Accès minimum (exemples) |      MFA requis     | Revue périodique |
 | ------------------------- | -----------------------------------: | :-----------------: | :--------------: |
