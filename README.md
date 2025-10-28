@@ -346,7 +346,7 @@ La charte doit impérativement contenir / préciser :
 * [Article 323-1 — Accès frauduleux à un système (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052655)  
 * [Article 313-1 — Escroquerie (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192)
 
-## `  ❕  `・ANSSI / Cyber.gouv — guides sécurité
+## `  🎈  `・ANSSI / Cyber.gouv — guides sécurité
 * [ANSSI — Administration sécurisée des SI (guide PDF)](https://cyber.gouv.fr/sites/default/files/2018/04/anssi-guide-admin_securisee_si_v3-0.pdf)  
 * [ANSSI — Référentiel PAMS (PDF)](https://cyber.gouv.fr/sites/default/files/2022-10/ANSSI_PAMS_referentiel_v1.1_vFR.pdf)  
 * [ANSSI — Recommandations pour la protection des systèmes essentiels (PDF)](https://cyber.gouv.fr/sites/default/files/2020/12/guide_protection_des_systemes_essentiels.pdf)
