@@ -1,6 +1,6 @@
-# `  💼  `・Devoir BTS SIO — SISR 2ᵉ année.
+# `  💼  `・Devoir BTS SIO ・ SISR 2ᵉ année.
 
-**Sujet :** Travaux à partir des documents CEJMA (DCP — Identité numérique — Preuve électronique — Sécurité équipements — Obligations légales)  
+**Sujet :** Travaux à partir des documents CEJMA (DCP ・ Identité numérique ・ Preuve électronique ・ Sécurité équipements ・ Obligations légales)  
 
 J’ai traité tous les exercices demandés dans les 6 documents fournis. Les corrections et compléments juridiques ont été ajoutés pour renforcer la qualité du rendu (références RGPD, CNIL, Code pénal).
 
@@ -24,7 +24,7 @@ J’ai traité tous les exercices demandés dans les 6 documents fournis. Les co
 2. [Cours 2・Charte de confidentialité & base légale (CentreCall)](#cours-2)  
 3. [Cours 3・Identité numérique (MQBanque)](#cours-3)  
 4. [Cours 4・Preuve électronique et courriel frauduleux (MQBanque)](#cours-4)  
-5. [Cours 5・Sécuriser les équipements — Audit MSAP (Marut)](#cours-5)  
+5. [Cours 5・Sécuriser les équipements ・ Audit MSAP (Marut)](#cours-5)  
 6. [Cours 6・Habilitations, failles et segmentation SI (MSAP)](#cours-6)  
 7. [Annexes utiles : modèles, matrices et schémas textuels](#annexes)  
 8. [Références web citées (législation / autorités)](#references)
@@ -41,7 +41,7 @@ J’ai traité tous les exercices demandés dans les 6 documents fournis. Les co
 **Données identifiées :**
 
 * Identifiants directs : **nom, prénom, adresse postale, téléphone, courriel**.
-* **Enregistrements audio** (conversation téléphonique) — voix.
+* **Enregistrements audio** (conversation téléphonique) ・ voix.
 * Données socio-démographiques et opinions : âge, profession, revenus déclarés, réponses d’enquête, préférences.
 
 **Justification synthétique :**
@@ -63,7 +63,7 @@ Toute information permettant d’identifier une personne, directement ou indirec
 **Conclusion et actions immédiates recommandées**
 
 1. Insérer au début de chaque appel la phrase de consentement prononcée (horodatée) et la conserver comme preuve.  
-2. Fournir une information complète (responsable, motifs, durée, droits). Voir recommandations CNIL pour l’enregistrement des appels. ([CNIL — Écoute et enregistrement des appels](https://www.cnil.fr/fr/lecoute-et-lenregistrement-des-appels-sur-le-lieu-de-travail))  
+2. Fournir une information complète (responsable, motifs, durée, droits). Voir recommandations CNIL pour l’enregistrement des appels. ([CNIL ・ Écoute et enregistrement des appels](https://www.cnil.fr/fr/lecoute-et-lenregistrement-des-appels-sur-le-lieu-de-travail))  
 3. Définir et documenter des durées de conservation (ex. qualité : ≤ 6 mois ; preuve contractuelle : durée justifiée). ([Article explicatif / Axialys](https://blog.axialys.com/enregistrement-des-appels-rgpd-bonnes-pratiques-2024/))  
 4. Mettre en place chiffrement et contrôle d’accès, et journaliser les accès aux enregistrements. 
 
@@ -85,7 +85,7 @@ La charte doit impérativement contenir / préciser :
 * Durées de conservation explicites ;
 * Modalités d’exercice des droits (accès, rectification, suppression, opposition, portabilité) ;
 * Mesures de sécurité (chiffrement, accès restreint) ;
-* Procédure de notification en cas de violation (Art. 33 RGPD). ([CNIL — notifier une violation](https://www.cnil.fr/fr/services-en-ligne/notifier-une-violation-de-donnees-personnelles))
+* Procédure de notification en cas de violation (Art. 33 RGPD). ([CNIL ・ notifier une violation](https://www.cnil.fr/fr/services-en-ligne/notifier-une-violation-de-donnees-personnelles))
 
 **Évaluation** : absence d’un seul élément essentiel (base légale, durée, droits) = non-conformité partielle ; corriger dans la charte et dans le registre des traitements.
 
@@ -122,12 +122,12 @@ La charte doit impérativement contenir / préciser :
 
 1. Mettre site en maintenance et préserver preuves (logs, captures).  
 2. Lancer forensic, corriger vulnérabilités, renouveler accès et certificats SSL.  
-3. Évaluer obligation de notification CNIL et plan communication clients. ([CNIL — Violations de données : règles à suivre](https://www.cnil.fr/fr/violations-de-donnees-personnelles-les-regles-suivre))
+3. Évaluer obligation de notification CNIL et plan communication clients. ([CNIL ・ Violations de données : règles à suivre](https://www.cnil.fr/fr/violations-de-donnees-personnelles-les-regles-suivre))
 
 ---
 
 <a id="cours-4"></a>
-# 4) Cours 4 — Preuve électronique, courriel frauduleux et sanctions
+# 4) Cours 4 ・ Preuve électronique, courriel frauduleux et sanctions
 
 *(Source : Cours4-CEJMA-PreuveElectronique.pdf).* 
 
@@ -137,11 +137,11 @@ La charte doit impérativement contenir / préciser :
 
 ## Q2 ・ Délits et peines encourues (synthèse juridique française)
 
-**Usurpation d’identité** : Article **226-4-1** du Code pénal — réprime l’usurpation d’identité ou l’usage de données d’identification pour troubler la tranquillité ou porter atteinte à l’honneur (peine : 1 an d’emprisonnement et 15 000 € d’amende pour l’infraction prévue par l’article). ([Légifrance — Art. 226-4-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593))  
+**Usurpation d’identité** : Article **226-4-1** du Code pénal ・ réprime l’usurpation d’identité ou l’usage de données d’identification pour troubler la tranquillité ou porter atteinte à l’honneur (peine : 1 an d’emprisonnement et 15 000 € d’amende pour l’infraction prévue par l’article). ([Légifrance ・ Art. 226-4-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593))  
 
-**Accès frauduleux à un système** : Article **323-1** du Code pénal — accès frauduleux à un système automatisé d’information (peines encadrées, amende et peine d’emprisonnement possibles). ([Légifrance — Art. 323-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052655))  
+**Accès frauduleux à un système** : Article **323-1** du Code pénal ・ accès frauduleux à un système automatisé d’information (peines encadrées, amende et peine d’emprisonnement possibles). ([Légifrance ・ Art. 323-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052655))  
 
-**Escroquerie** : Article **313-1** du Code pénal — tromperie visant à obtenir un bien ou service ; peines variables selon le préjudice. ([Légifrance — Art. 313-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192))
+**Escroquerie** : Article **313-1** du Code pénal ・ tromperie visant à obtenir un bien ou service ; peines variables selon le préjudice. ([Légifrance ・ Art. 313-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192))
 
 > **Remarque** : la qualification précise dépendra des éléments (intention, préjudice, moyens). Pour un rendu scolaire, citer ces articles montre la connaissance du cadre pénal.
 
@@ -149,7 +149,7 @@ La charte doit impérativement contenir / préciser :
 
 **Exigences probatoires pour contrats électroniques** :
 
-* **Authenticité / identification** : signature électronique qualifiée ou dispositif d’identification fiable. (eIDAS : la signature qualifiée a l’équivalence d’une signature manuscrite). ([eIDAS — texte officiel](https://eur-lex.europa.eu/eli/reg/2014/910/oj/eng))  
+* **Authenticité / identification** : signature électronique qualifiée ou dispositif d’identification fiable. (eIDAS : la signature qualifiée a l’équivalence d’une signature manuscrite). ([eIDAS ・ texte officiel](https://eur-lex.europa.eu/eli/reg/2014/910/oj/eng))  
 * **Intégrité** : empreinte (hash) et signature garantissant que le document n’a pas été modifié.  
 * **Horodatage** : preuve temporelle (horodatage tiers) pour situer la signature.  
 * **Conservation** : journalisation et stockage sécurisé (chiffrement, accès restreint).
@@ -164,7 +164,7 @@ La charte doit impérativement contenir / préciser :
 ---
 
 <a id="cours-5"></a>
-# 5) Cours 5 ・ Sécuriser les équipements — Audit MSAP (Marut)
+# 5) Cours 5 ・ Sécuriser les équipements ・ Audit MSAP (Marut)
 
 *(Source : Cours5-CEJMA-SécuriserlesEquipements.pdf).* 
 
@@ -180,7 +180,7 @@ La charte doit impérativement contenir / préciser :
 
 ## Q2 ・ Bonnes pratiques (texte prêt à insérer dans la charte)
 
-(Version prête à coller — voir section Annexes pour texte complet et modèles rédigés.)
+(Version prête à coller ・ voir section Annexes pour texte complet et modèles rédigés.)
 
 ## Q3 ・ Limiter les risques liés à la messagerie
 
@@ -200,7 +200,7 @@ La charte doit impérativement contenir / préciser :
 9. Signalement d’incident.  
 10. Formation obligatoire.
 
-*(Voir Annexes — “Rubrique : Bonnes pratiques”)*
+*(Voir Annexes ・ “Rubrique : Bonnes pratiques”)*
 
 ---
 
@@ -246,10 +246,10 @@ La charte doit impérativement contenir / préciser :
 <a id="annexes"></a>
 # Annexes utiles : modèles, matrices et schémas textuels
 
-## A ・ Phrase de consentement (modèle probatoire — à prononcer et horodater)
+## A ・ Phrase de consentement (modèle probatoire ・ à prononcer et horodater)
 
 > « Bonjour, je vous appelle de la part de [Nom du centre]. Cette conversation peut être enregistrée pour les besoins de [finalité : ex. contrôle qualité / formation / preuve contractuelle]. Acceptez-vous que j’enregistre cet appel ? »  
-> **Procédure** : faire prononcer la phrase et la conserver dans l’enregistrement (horodatage automatique). Voir recommandations CNIL. ([CNIL — Écoute et enregistrement](https://www.cnil.fr/fr/lecoute-et-lenregistrement-des-appels-sur-le-lieu-de-travail))
+> **Procédure** : faire prononcer la phrase et la conserver dans l’enregistrement (horodatage automatique). Voir recommandations CNIL. ([CNIL ・ Écoute et enregistrement](https://www.cnil.fr/fr/lecoute-et-lenregistrement-des-appels-sur-le-lieu-de-travail))
 
 ## B ・ Log modèle (format à conserver pour preuve)
 
@@ -311,7 +311,7 @@ La charte doit impérativement contenir / préciser :
 | Administrateur applicatif |             Serveur app, déploiement |    Oui + Bastion    |     Mensuelle    |
 | Administrateur infra      |                    AD, PAM, pare-feu | Oui + Bastion + PAM |     Mensuelle    |
 
-## E — Schéma textuel de segmentation (ASCII)
+## E ・ Schéma textuel de segmentation (ASCII)
 
 ```
 
@@ -330,34 +330,34 @@ La charte doit impérativement contenir / préciser :
 # `  🎈  `・Références web citées (principales)
 
 ## `  🌐  `・Textes européens / RGPD / eIDAS
-* [Règlement (UE) 2016/679 — RGPD (texte officiel, EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng)  
-* [RGPD — PDF officiel (CELEX)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32016R0679)  
-* [Version lisible / indexée du RGPD — gdpr-info.eu](https://gdpr-info.eu/)  
-* [Règlement (UE) n°910/2014 — eIDAS (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2014/910/oj/eng)
+* [Règlement (UE) 2016/679 ・ RGPD (texte officiel, EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng)  
+* [RGPD ・ PDF officiel (CELEX)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32016R0679)  
+* [Version lisible / indexée du RGPD ・ gdpr-info.eu](https://gdpr-info.eu/)  
+* [Règlement (UE) n°910/2014 ・ eIDAS (EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2014/910/oj/eng)
 
-## `  🌐  `・CNIL — enregistrements, notification, guides pratiques
-* [CNIL — L’écoute et l’enregistrement des appels sur le lieu de travail](https://www.cnil.fr/fr/lecoute-et-lenregistrement-des-appels-sur-le-lieu-de-travail)  
-* [CNIL — L’enregistrement des conversations téléphoniques afin d’établir la preuve de la formation d’un contrat](https://www.cnil.fr/fr/lenregistrement-des-conversations-telephoniques-afin-detablir-la-preuve-de-la-formation-dun-contrat)  
-* [CNIL — Notifier une violation de données personnelles (téléservice)](https://www.cnil.fr/fr/services-en-ligne/notifier-une-violation-de-donnees-personnelles)  
-* [CNIL — Violations de données personnelles : les règles à suivre](https://www.cnil.fr/fr/violations-de-donnees-personnelles-les-regles-suivre)  
-* [CNIL — Q&A : Enregistrement ou écoute des conversations téléphoniques — faut-il informer ?](https://cnil.fr/fr/cnil-direct/question/enregistrement-ou-ecoute-des-conversations-telephoniques-faut-il-informer-ses)  
-* [CNIL — Guide / fiche PDF ns57 (écoute et enregistrement)](https://cnil.fr/sites/cnil/files/atoms/files/ns57.pdf)
+## `  🌐  `・CNIL ・ enregistrements, notification, guides pratiques
+* [CNIL ・ L’écoute et l’enregistrement des appels sur le lieu de travail](https://www.cnil.fr/fr/lecoute-et-lenregistrement-des-appels-sur-le-lieu-de-travail)  
+* [CNIL ・ L’enregistrement des conversations téléphoniques afin d’établir la preuve de la formation d’un contrat](https://www.cnil.fr/fr/lenregistrement-des-conversations-telephoniques-afin-detablir-la-preuve-de-la-formation-dun-contrat)  
+* [CNIL ・ Notifier une violation de données personnelles (téléservice)](https://www.cnil.fr/fr/services-en-ligne/notifier-une-violation-de-donnees-personnelles)  
+* [CNIL ・ Violations de données personnelles : les règles à suivre](https://www.cnil.fr/fr/violations-de-donnees-personnelles-les-regles-suivre)  
+* [CNIL ・ Q&A : Enregistrement ou écoute des conversations téléphoniques ・ faut-il informer ?](https://cnil.fr/fr/cnil-direct/question/enregistrement-ou-ecoute-des-conversations-telephoniques-faut-il-informer-ses)  
+* [CNIL ・ Guide / fiche PDF ns57 (écoute et enregistrement)](https://cnil.fr/sites/cnil/files/atoms/files/ns57.pdf)
 
-## `  🌐  `・Code pénal (France) — articles cités
-* [Article 226-4-1 — Usurpation d’identité (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593)  
-* [Article 323-1 — Accès frauduleux à un système (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052655)  
-* [Article 313-1 — Escroquerie (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192)
+## `  🌐  `・Code pénal (France) ・ articles cités
+* [Article 226-4-1 ・ Usurpation d’identité (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042193593)  
+* [Article 323-1 ・ Accès frauduleux à un système (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047052655)  
+* [Article 313-1 ・ Escroquerie (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418192)
 
-## `  🌐  `・ANSSI / Cyber.gouv — guides sécurité
-* [ANSSI — Administration sécurisée des SI (guide PDF)](https://cyber.gouv.fr/sites/default/files/2018/04/anssi-guide-admin_securisee_si_v3-0.pdf)  
-* [ANSSI — Référentiel PAMS (PDF)](https://cyber.gouv.fr/sites/default/files/2022-10/ANSSI_PAMS_referentiel_v1.1_vFR.pdf)  
-* [ANSSI — Recommandations pour la protection des systèmes essentiels (PDF)](https://cyber.gouv.fr/sites/default/files/2020/12/guide_protection_des_systemes_essentiels.pdf)
+## `  🌐  `・ANSSI / Cyber.gouv ・ guides sécurité
+* [ANSSI ・ Administration sécurisée des SI (guide PDF)](https://cyber.gouv.fr/sites/default/files/2018/04/anssi-guide-admin_securisee_si_v3-0.pdf)  
+* [ANSSI ・ Référentiel PAMS (PDF)](https://cyber.gouv.fr/sites/default/files/2022-10/ANSSI_PAMS_referentiel_v1.1_vFR.pdf)  
+* [ANSSI ・ Recommandations pour la protection des systèmes essentiels (PDF)](https://cyber.gouv.fr/sites/default/files/2020/12/guide_protection_des_systemes_essentiels.pdf)
 
 ## `  🌐  `・Autres ressources utiles
-* [Axialys — Enregistrement des appels & bonnes pratiques (article)](https://blog.axialys.com/enregistrement-des-appels-rgpd-bonnes-pratiques-2024/)  
+* [Axialys ・ Enregistrement des appels & bonnes pratiques (article)](https://blog.axialys.com/enregistrement-des-appels-rgpd-bonnes-pratiques-2024/)  
 * [GDPR.info (indexation pratique du texte RGPD)](https://gdpr-info.eu/)  
-* [CNIL — tag “Téléphonie” (regroupe articles CNIL)](https://www.cnil.fr/fr/tag/telephonie)  
-* [Cybermalveillance.gouv.fr — Fiche réflexe : piratage d'un système informatique professionnel](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/fiches-reflexes/piratage-systeme-informatique-pro)  
-* [DocuSign — valeur légale & eIDAS (page explicative)](https://www.docusign.fr/produits/signature-electronique/valeur-legale)
+* [CNIL ・ tag “Téléphonie” (regroupe articles CNIL)](https://www.cnil.fr/fr/tag/telephonie)  
+* [Cybermalveillance.gouv.fr ・ Fiche réflexe : piratage d'un système informatique professionnel](https://www.cybermalveillance.gouv.fr/tous-nos-contenus/fiches-reflexes/piratage-systeme-informatique-pro)  
+* [DocuSign ・ valeur légale & eIDAS (page explicative)](https://www.docusign.fr/produits/signature-electronique/valeur-legale)
 
 ---
