@@ -28,7 +28,7 @@ Les corrections et compléments juridiques ont été ajoutés pour renforcer la 
 4. [Cours 4・Preuve électronique et courriel frauduleux (MQBanque)](#cours-4)  
 5. [Cours 5・Sécuriser les équipements ・ Audit MSAP (Marut)](#cours-5)  
 6. [Cours 6・Habilitations, failles et segmentation SI (MSAP)](#cours-6)  
-7. [Annexes utiles : modèles, matrices et schémas textuels](#annexes)  
+7. [Annexes utiles ・ modèles, matrices et schémas textuels](#annexes)  
 8. [Références web citées (législation / autorités)](#references)
 
 ---
@@ -246,7 +246,7 @@ La charte doit impérativement contenir / préciser :
 ---
 
 <a id="annexes"></a>
-# Annexes utiles : modèles, matrices et schémas textuels.
+# Annexes utiles ・ modèles, matrices et schémas textuels.
 
 ## A ・ Phrase de consentement (modèle probatoire ・ à prononcer et horodater).
 
