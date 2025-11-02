@@ -1,6 +1,7 @@
 # `  💼  `・Devoir BTS SIO ・ SISR 2ᵉ année.
 
-**Sujet :** Travaux à partir des documents CEJMA (DCP ・ Identité numérique ・ Preuve électronique ・ Sécurité équipements ・ Obligations légales)  
+**Sujet :** Travaux à partir des documents CEJMA.
+* (DCP ・ Identité numérique ・ Preuve électronique ・ Sécurité équipements ・ Obligations légales)  
 
 J’ai traité tous les exercices demandés dans les 6 documents fournis.
 Les corrections et compléments juridiques ont été ajoutés pour renforcer la qualité du rendu (références RGPD, CNIL, Code pénal).
