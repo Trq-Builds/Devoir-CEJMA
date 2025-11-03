@@ -331,6 +331,8 @@ La charte doit impérativement contenir / préciser :
 <a id="references"></a>
 # `  🎈  `・Références web citées.
 
+---
+
 ## `  🌐  `・Textes européens / RGPD / eIDAS.
 * [Règlement (UE) 2016/679 ・ RGPD (texte officiel, EUR-Lex)](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng)  
 * [RGPD ・ PDF officiel (CELEX)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32016R0679)  
